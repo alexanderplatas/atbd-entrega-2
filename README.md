@@ -23,9 +23,9 @@ Pasos seguidos:
 
 Pasos seguidos:
 1. Importar los datos desde el csv:
-  ```
-  mongoimport --db biblioteca --collection libros --type csv --headerline --file ./books_100_cleaned.csv
-  ```
+   ```
+   mongoimport --db biblioteca --collection libros --type csv --headerline --file ./books_100_cleaned.csv
+   ```
 2. Entrar en MondoDB:
    ```
    mongoshj
