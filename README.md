@@ -28,7 +28,7 @@ Pasos seguidos:
    ```
 2. Entrar en MondoDB:
    ```
-   mongoshj
+   mongosh
    ```
 3. Entrar en la base de datos creada y ejecutar las consultas desde la terminal:
    ```
